@@ -1,8 +1,8 @@
 void main() {
-  int num = 7;
+  int num = 3;
   if (num % 2 == 0) {
-    print("$num is Even");
+    print("$num The number is Even");
   } else {
-    print("$num is Odd");
+    print("$num The number is Odd");
   }
 }
